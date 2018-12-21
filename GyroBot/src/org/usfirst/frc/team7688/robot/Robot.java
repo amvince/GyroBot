@@ -30,7 +30,6 @@ public class Robot extends IterativeRobot {
     private final static int MPU6050_GYRO_XOUT_HI = 0x43;
     private final static int MPU6050_GYRO_ZOUT_HI = 0x47;
     
-    private final static int MPU6050_WHO_AM_I = 0x75;
     
     protected static int direction=0;
 
